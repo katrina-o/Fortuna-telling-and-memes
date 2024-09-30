@@ -1,0 +1,6 @@
+framework module Pods_Fortuna_telling_and_memes {
+  umbrella header "Pods-Fortuna telling and memes-umbrella.h"
+
+  export *
+  module * { export * }
+}
